@@ -47,7 +47,7 @@ CryptPad is an unconventional platform and our roadmap will not always be comple
 We explicitly support the use of CryptPad in two main configurations:
 
 1. a standalone JavaScript server intended for use as a development platform
-  * installed on a modern Linux distributation using [nvm](https://github.com/nvm-sh/nvm)
+  * installed on a modern Linux distribution using [nvm](https://github.com/nvm-sh/nvm)
 2. a production-grade installation based on the project's flagship instance ([CryptPad.fr](https://cryptpad.fr))
   * using Debian9, nginx, node v12.14.0, with source managed using git, npm, and bower
 
